@@ -20,10 +20,6 @@
 
 [original]: https://github.com/chneukirchen/styleguide
 
-By the way, if you're into Rails you might want to check out the
-complementary
-[Ruby on Rails 3 Style Guide](https://github.com/rtlong/rails-style-guide).
-
 ## Table of Contents
 
 * [The Ruby Style Guide](#guide)
